@@ -1,10 +1,13 @@
 _repo: Pussy-Black-Face-Or-The-Story-of-a-Kitten-and-Her-Friends_52787
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Marlowe, Diantha Horne
     gutenberg_agent_id: '43669'
     url: http://www.gutenberg.org/2009/agents/43669
+covers:
+- cover_type: archival
+  image_path: 52787-h/images/cover.jpg
 creator:
   author:
     agent_name: Saunders, Marshall
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1041
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Marshall_Saunders
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52787#Pussy-Black-Face-Or-The-Story-of-a-Kitten-and-Her-Friends
 gutenberg_issued: '2016-08-12'
 gutenberg_type: Text
 identifiers:
